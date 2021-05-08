@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SatelliteTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-08T01:40:16" hostname="MacBook-Pro.local" time="0.343">
-  <properties/>
-  <testcase name="getWeatherTest" classname="SatelliteTest" time="0.343"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

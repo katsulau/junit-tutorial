@@ -9,4 +9,8 @@ open class Satellite {
         val index = Random.nextInt(weatherList.size)
         return weatherList[index]
     }
+
+    open fun getTemperature(): Double {
+        return Random.nextDouble(-10.0, 40.0)
+    }
 }
