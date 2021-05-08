@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WeatherForecastTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-05-08T05:56:18" hostname="MacBook-Pro.local" time="0.06">
+  <properties/>
+  <testcase name="recordCurrentWeatherでrecordメソッドが呼び出されている" classname="WeatherForecastTest" time="0.056"/>
+  <testcase name="recordCurrentWeatherTest" classname="WeatherForecastTest" time="0.002"/>
+  <testcase name="getWeatherTest" classname="WeatherForecastTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WeatherForecastTVTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-05-08T05:56:18" hostname="MacBook-Pro.local" time="0.609">
+  <properties/>
+  <testcase name="getSuitableClothPositiveAtsugi" classname="WeatherForecastTVTest" time="0.605"/>
+  <testcase name="getSuitableClothPositiveHansode" classname="WeatherForecastTVTest" time="0.0"/>
+  <testcase name="getSuitableClothPositiveAtsugiMaxBorder" classname="WeatherForecastTVTest" time="0.0"/>
+  <testcase name="getSuitableClothPositiveHaoirimonoMaxBorder" classname="WeatherForecastTVTest" time="0.001"/>
+  <testcase name="getSuitableClothPositiveHansodeBorder" classname="WeatherForecastTVTest" time="0.001"/>
+  <testcase name="getSuitableClothPositiveHaoirimonoMinBorder" classname="WeatherForecastTVTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
